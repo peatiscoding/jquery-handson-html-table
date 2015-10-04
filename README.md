@@ -98,7 +98,7 @@ For ```handsonOptions``` please refers to [handson documentation](//docs.handson
 
 For ```creationOptions```
 
-# verbose - (boolean) instruct the plugin to describe what happen during creation phase. default: ```False```
-# replaceTable - (boolean) instruct the plugin to remove the table upon completion. default: ```False```
+1. ```verbose``` - (boolean) instruct the plugin to describe what happen during creation phase. default: ```False```
+1. ```replaceTable``` - (boolean) instruct the plugin to remove the table upon completion. default: ```False```
 
 
